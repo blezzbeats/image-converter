@@ -1,0 +1,22 @@
+{
+  "name": "image-converter",
+  "version": "1.0.0",
+  "description": "Simple image conversion to webp",
+  "main": "imgconvert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blezzbeats/image-converter.git"
+  },
+  "author": "Blezz Beats",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blezzbeats/image-converter/issues"
+  },
+  "homepage": "https://github.com/blezzbeats/image-converter#readme",
+  "dependencies": {
+    "sharp": "^0.31.3"
+  }
+}
